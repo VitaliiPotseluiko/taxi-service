@@ -31,7 +31,7 @@ You can:
 - Deployed using Apache Tomcat running om Amazon AWS EC2 instance and RDS MySQL database.
 # How to run
 - Clone this repository
-- Run the SQL script which located in path "src/main/resources/init_db.sql" to initialize database
+- Run the SQL script which located in path src/main/resources/init_db.sql to initialize database
 - Buil this project using Maven: mvn clean install
 - Deploy the war file to the servlet container, for example Tomcat
 # Autors
