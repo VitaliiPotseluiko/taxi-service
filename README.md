@@ -23,7 +23,6 @@ You can:
 - resources/ - contains init_db.sql that helps to initialize DB before running the application.
 - webapp/ - folder with web resources (presentation layer of the application).
 - WEB-INF/views/ - contains the dynamic web-resources - .jsp files to display the web-pages.
-- web-resources/ - folder with static resources, such as css styles and images.
 - web.xml - file that provides servlet mapping.
 # Technologies
 - Java
