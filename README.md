@@ -26,9 +26,10 @@ You can:
 - **web.xml** - file that provides servlet mapping.
 # Technologies
 - **Java 11**
-- **JDBC** for relational DB connection.
-- **Java Servlet + JSP** to handle requests and display dynamic web-pages.
-- Deployed using **Apache Tomcat** running on Amazon AWS EC2 instance and RDS MySQL database.
+- **JDBC**
+- **Java Servlet + JSP**
+- **Apache Tomcat 9**
+- **MySQL**
 # How to run
 - Clone this repository
 - Run the SQL script which located in path `src/main/resources/init_db.sql` to initialize database
