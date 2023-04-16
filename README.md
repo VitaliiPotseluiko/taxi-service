@@ -1,5 +1,5 @@
 # Taxi Service
-This project is taxy service's imitation which uses Servlets and SQL.
+This application implements a taxi service model with the ability to register and authenticate drivers, control access to various data. Such tools as MySQL, Java Servlet API, Apache Tomcat, JDBC API were used in the implementation.
 # Features
 You can:
 - Add and delete drivers
