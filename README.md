@@ -27,8 +27,12 @@ You can:
 # Technologies
 - **Java 11**
 - **MySQL**
-- **Java Servlet + JSP**
-- **Apache Tomcat 9**
+- **Maven 3.8.0 version**
+- **JDBC 4.2 version**
+- **MySql 8.0.22 version**
+- **Java Servlets 4.0.1 version**
+- **Apache Tomcat 9.0.65 version**
+- **JSTL 1.2 version**
 # How to run
 - Clone this repository
 - Run the SQL script which located in path `src/main/resources/init_db.sql` to initialize database
