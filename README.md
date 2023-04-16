@@ -26,10 +26,9 @@ You can:
 - **web.xml** - file that provides servlet mapping.
 # Technologies
 - **Java 11**
-- **JDBC**
+- **MySQL**
 - **Java Servlet + JSP**
 - **Apache Tomcat 9**
-- **MySQL**
 # How to run
 - Clone this repository
 - Run the SQL script which located in path `src/main/resources/init_db.sql` to initialize database
