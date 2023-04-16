@@ -38,7 +38,7 @@ You can:
 - Initialize the database by using SQL script : `src/main/resources/init_db.sql`
 - Update fields JDBC_DRIVER, URL, USERNAME, PASSWORD with your database connection information in
   `src/main/java/taxi/util/ConnectionUtil.java`
-- Buil this project using Maven: mvn clean install
-- Deploy the war file to the servlet container, for example Tomcat
+- Buil this project using Maven: `mvn clean install`
+- Configure run with Tomcat
 # Autors
   Vitalii Potseluiko
