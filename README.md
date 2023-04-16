@@ -34,8 +34,10 @@ You can:
 - **Apache Tomcat 9.0.65 version**
 - **JSTL 1.2 version**
 # How to run
-- Clone this repository
-- Run the SQL script which located in path `src/main/resources/init_db.sql` to initialize database
+- Clone this repository `https://github.com/VitaliiPotseluiko/taxi-service.git`
+- Initialize the database by using SQL script : `src/main/resources/init_db.sql`
+- Update fields JDBC_DRIVER, URL, USERNAME, PASSWORD with your database connection information in
+  `src/main/java/taxi/util/ConnectionUtil.java`
 - Buil this project using Maven: mvn clean install
 - Deploy the war file to the servlet container, for example Tomcat
 # Autors
