@@ -29,8 +29,9 @@ You can:
 # How to run
 - Clone this repository `https://github.com/VitaliiPotseluiko/taxi-service.git`
 - Initialize the database by using SQL script : `src/main/resources/init_db.sql`
-- Update fields `JDBC_DRIVER`, `URL`, `USERNAME`, `PASSWORD` with your database connection information in
-  `src/main/java/taxi/util/ConnectionUtil.java`
+- Update fields `JDBC_DRIVER`, `URL`, `USERNAME`, `PASSWORD` with your database connection information in`src/main/java/taxi/util/ConnectionUtil.java`:
+![image](https://user-images.githubusercontent.com/107885859/232594523-b91cb9bc-4c88-4638-80ce-2182764a25b3.png)
+
 - Buil this project using Maven: `mvn clean install`
 - Configure run with Tomcat
 # Autors
