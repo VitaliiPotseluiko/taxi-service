@@ -10,7 +10,7 @@ You can:
 - Add and delete drivers to certain car
 - Authetication
 # Structure
-# The project has 3-Tier Architectur
+ ***The project has 3-Tier Architectur***
 1. DAO
   - all database work takes place here (CRUD methods)
 2. SERVICE
