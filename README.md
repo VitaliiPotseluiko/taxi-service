@@ -19,7 +19,6 @@ You can:
   - all communication between the client and the server takes place here
 # Technologies
 - **Java 11**
-- **MySQL**
 - **Maven 3.8.0 version**
 - **JDBC 4.2 version**
 - **MySql 8.0.22 version**
